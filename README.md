@@ -10,7 +10,7 @@ to Monitor also ur BPM and give advices either your above averge or below it.
   
 Tools & Programming Language:
   
-- Arduino (C, based)
+- Arduino (C++, based)
 -Max3010x 
 -I2C OLED
 -ESP8266 mini
